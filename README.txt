@@ -4,14 +4,14 @@ Welcome to the Calculator Project!
 
 To compile and run this project, you'll need to set up the MinGW compiler and the raylib library. Follow the steps below to get started:
 
-Step 1: Download and Install MinGW Compiler
+Step 1: Download and Install MinGW Compiler.
 -------------------------------------------
 1. Go to the MinGW official website: https://osdn.net/projects/mingw/
 2. Download the installer (mingw-get-setup.exe) from the "Downloads" section.
 3. Run the installer and follow the on-screen instructions to complete the installation.
 4. During installation, make sure to select the necessary components like the C and C++ compilers.
 
-Step 2: Download and Install raylib Library
+Step 2: Download and Install raylib Library.
 --------------------------------------------
 1. Go to the raylib official website: https://www.raylib.com/
 2. Navigate to the "Download" section.
